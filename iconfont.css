@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1054478 */
+  src:url('https://at.alicdn.com/t/font_1054478_pnv22cm0mbo.woff2') format('woff2');
+  src:url('https://at.alicdn.com/t/font_1054478_pnv22cm0mbo.woff') format('woff');
+  src:url('https://at.alicdn.com/t/font_1054478_pnv22cm0mbo.ttf') format('truetype');
+}
+
+
+
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-YUAN:before {
+  content: "\e785";
+}
+
+.icon-message:before {
+  content: "\e78a";
+}
+
+.icon-detail:before {
+  content: "\e793";
+}
+
+.icon-home:before {
+  content: "\e7c6";
+}
+
+.icon-deploymentunit:before {
+  content: "\e7d2";
+}
+
+.icon-scan:before {
+  content: "\e7d4";
+}
+
+.icon-gift:before {
+  content: "\e842";
+}
+
+.icon-caret-down:before {
+  content: "\e8ec";
+}
+
+.icon-caret-up:before {
+  content: "\e8ed";
+}
+
+.icon-wechat-fill:before {
+  content: "\e883";
+}
+
